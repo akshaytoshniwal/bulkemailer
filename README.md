@@ -1,2 +1,1 @@
-# bulkemailer
-Python script to send bulk emails
+# Python Script to Send Bulk Emails
